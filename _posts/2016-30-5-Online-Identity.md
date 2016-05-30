@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online Identity foor Coders.
+title: Online Identity for Coders.
 ---
 It is important for all coders to know:
 
