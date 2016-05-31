@@ -18,14 +18,14 @@ avatar: https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.0-9/268982_294642724003438_1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: grace@moringaschool.com
+  email:
   facebook: g.gracejonn
   flickr:
   github: GraceJonn123
   instagram:
   linkedin: grace-john-48899b118
   pinterest:
-  rss: Yipee! # just type anything here for a working RSS icon 
+  rss: # just type anything here for a working RSS icon 
   twitter: GjonnGj
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
