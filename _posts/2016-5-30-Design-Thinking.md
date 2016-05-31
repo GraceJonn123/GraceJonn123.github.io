@@ -3,7 +3,7 @@ layout: post
 title: Steps for design thinking.
 ---
 
-###What are some of the steps to design thinking, you may wonder. Well lucky you i know a tit bit about some of those steps.###
+###What are some of the steps to design thinking, you may wonder. Well lucky you i know a tit bit about some of those steps.
 
 1. Empathize 
   - Listen to the user and try to understand their point of view.
