@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am just an extra-ordinary lady who loves music, arts, movies and working on awesomeness. Stay fabulous!!
+Here is my portfolio incase you need some help. [gjonn.bitballoon.com](gjonn.bitballoon.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[grace@moringaschool.com](mailto:grace@moringaschool.com)
