@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am just an extra-ordinary lady who loves music, arts, movies and working on awesomeness. Stay fabulous!!
-Here is my portfolio incase you need some help. [gjonn.bitballoon.com](gjonn.bitballoon.com)
+Click portfolio to go to my website incase you need some help. 
 
 ### Contact me
 
