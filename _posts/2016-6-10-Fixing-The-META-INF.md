@@ -3,9 +3,9 @@ layout: post
 title: How to fix the META-INF situation.
 ---
 
-#META-INF
+# META-INF
 
-###What is META-INF?
+### What is META-INF?
 
 Metadata are "data that provide information about other data". Two types of metadata exist: structural metadata and descriptive metadata. 
 **Structural metadata** are data about the containers of data. 
