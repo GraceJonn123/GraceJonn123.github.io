@@ -3,7 +3,7 @@ layout: post
 title: How to fix the META-INF situation.
 ---
 
-# META-INF
+### META-INF
 
 ### What is META-INF?
 
