@@ -3,7 +3,7 @@ layout: post
 title: “cannot resolve symbol R” in Android Studio
 ---
 
-### “cannot resolve symbol R” in Android Studio
+#### Ever had this issue? R. cannot be resolved..
 
 In many instances in all of my classes where I reference R.id.something, 
 the R is in red and it says "cannot resolve symbol R". Also whenever there is R.layout.something 
