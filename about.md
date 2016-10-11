@@ -9,4 +9,4 @@ Click portfolio to go to my website incase you need some help.
 
 ### Contact me
 
-[grace@moringaschool.com](mailto:grace@moringaschool.com)
+[gj.gjonn@gmail.com](mailto:gj.gjonn@gmail.com)
